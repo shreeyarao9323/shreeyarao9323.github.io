@@ -526,6 +526,14 @@ footer ul.circled li:before {
     margin: 12px 8px 0 0;
     text-transform: uppercase;
 }
+
+.classname {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.classname {
+	font-family: 'Karla', sans-serif;
+}
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
 /*-----------------------------------------------------------------------------------*/
@@ -1791,7 +1799,7 @@ video {
     width: 100%;
 }
 #video-office {
-    background: url('style/video/fish.jpg') scroll no-repeat center center;
+    background: url('style/video/nyc.jpg') scroll no-repeat center center;
     background-size: cover;
 }
 .content-overlay {
